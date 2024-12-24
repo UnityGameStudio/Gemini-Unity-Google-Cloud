@@ -1,14 +1,30 @@
-# Gemini-Unity-Google-Cloud
-A Unity Package that allows the usage of Gemini and Google Cloud Services of Text To Speech, and Speech To Text. 
-> Currently, this package is only suported on versions of Unity 2021.x and above
+# Gemini Unity Google Cloud Package
+
+A Unity package that integrates **Gemini** and **Google Cloud Services** to provide functionality for **Text to Speech** and **Speech to Text** within Unity projects.
+
+> **Note**: This package supports **Unity 2022.x** and above.
+
+---
 
 # Installation
 
-This package is provided as a custom Unity package that you can import into any existing project with the Unity version 2021.x and above.
+To use the **Gemini Unity Google Cloud Package**, follow these steps:
 
-Once you've downloaded the Unity package, you can import the package into your scene through the `Gemini_Manager_V3` prefab. 
+### Step 1: Install Dependencies
 
----
+Before importing the Gemini Unity package, you'll need to download and install the following dependencies:
+
+1. **Unity Text-to-Speech using Google Cloud**  
+   - This package provides necessary functions for **Text to Speech**.  
+   - [Download from GitHub](https://github.com/anomalisfree/Unity-Text-to-Speech-using-Google-Cloud)
+   
+2. **Ready Player Me SDK Core**  
+   - This package is required for integrating **Ready Player Me** assets in Unity.  
+   - [Download from GitHub](https://github.com/readyplayerme/rpm-unity-sdk-core)
+
+### Step 2: Import Gemini-Unity-Google-Cloud Package
+
+Once the dependencies are set up, **import** the Gemini Unity Google Cloud package.
 
 # Setup
 
