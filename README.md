@@ -1,6 +1,6 @@
 # Gemini Unity Google Cloud Package
 
-A Unity package that integrates **Gemini** and **Google Cloud Services** to provide functionality for **Text to Speech** and **Speech to Text** within Unity projects.
+A Unity plugin that integrates **Gemini** with **Google Cloud Services** (Text-to-Speech and Speech-to-Text) and **Ready Player Me**. This plugin enables the creation of interactive NPCs that can respond to player voice inputs with natural speech, providing an immersive voice-driven experience. Ideal for developing intelligent, conversational agents within Unity-based games or simulations.
 
 > **Note**: This package supports **Unity 2022.x** and above.
 
