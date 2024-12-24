@@ -20,7 +20,7 @@ Before importing the Gemini Unity package, you'll need to download and install t
    
 2. **Ready Player Me SDK Core**  
    - This package is required for integrating **Ready Player Me** assets in Unity.  
-   - [Download from GitHub](https://github.com/readyplayerme/rpm-unity-sdk-core)
+   - [Download from Unity Asset Store](https://assetstore.unity.com/packages/p/ready-player-me-avatar-and-character-creator-259814)
 
 ### Step 2: Import Gemini-Unity-Google-Cloud Package
 
