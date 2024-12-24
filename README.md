@@ -30,4 +30,8 @@ Once the dependencies are set up, **import** the Gemini Unity Google Cloud packa
 
 Here's a quick guide to setting up the latest release (V1.0): [Watch the YouTube tutorial](https://www.youtube.com/watch?v=Z6MFqIzOHK0&ab_channel=UnityGameStudio)
 
-### Working on the README ... ⚠️
+### Work in Progress ⚙️
+
+This README is a work in progress, and additional information will be added soon. I'll be continuing to refine the documentation. Feel free to check back for the latest changes, and thank you for your patience!
+
+---
